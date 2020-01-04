@@ -1,3 +1,3 @@
-# Go gin app
+# 使用 Gin 构建 Go web 应用程序
 
-This is the code from the article [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin).
+教程：https://juejin.im/post/5e0c40ff5188253a8c263ad1
